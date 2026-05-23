@@ -1,0 +1,3 @@
+pub const Adaline = struct {
+
+};

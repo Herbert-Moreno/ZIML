@@ -1,4 +1,5 @@
 build/
 out/
 .idea/
-./deimos/
+.zig-cache/
+zig-out
